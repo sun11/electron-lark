@@ -23,6 +23,9 @@ electron 版的飞书 Feishu (原 Lark)，对网页版本进行封装
 
 (另外有一说一, 飞书的技术架构就是基于 Electron 的, Windows 和 Mac 客户端也都是使用 Electron 打包, 既然如此为什么不顺便为 Linux 也提供支持呢 ?)
 
+个人（github:sun11）修改：
+
+在 https://github.com/ttys3/electron-lark 的基础上，参考 https://github.com/amtoaer/electron-lark 的 `main.js`修改
 
 ## 运行截图
 
